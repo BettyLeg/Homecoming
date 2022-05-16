@@ -1,1 +1,13 @@
 .bt00firma{width: 250px; border: 10px solid #f2f2f2; margin: 10px auto; padding: 3px; background: #fcfcfc;}.bt00f-img1{height: 150px; width: 250px; background: #ddd; margin-bottom: 3px;}.bt00f-dt2{display: flex; align-items: center; justify-content: flex-start; height: 35px; background: #f8f8f8; border: 0px solid #eee;}.bt00f-dt2 > i{display: flex; align-items: center; justify-content: center; width: 74px; background: #cfc1b7; height: 100%; border-radius: 0px 20px 20px 0px; margin-right: 10px; color: #fff;}.bt00f-dt2 > span{font-size: 8px; text-transform: uppercase; font-family: arial; color: #aaa; font-weight: 600; display: block; width: 155px; line-height: 12px;}
+a.btf-cred {
+    width: 200px;
+    margin: -8px auto 10px;
+    text-align: center;
+    display: block;
+    font-size: 8px;
+    font-family: arial;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #aaa;
+    letter-spacing: 1px;
+}
